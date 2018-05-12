@@ -1,0 +1,36 @@
+_repo: Seed-of-the-Arctic-Ice_32029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bates, Harry
+    aliases:
+    - Bates, Hiram Gilmore
+    - Winter, H. G.
+    birthdate: 1900
+    deathdate: 1981
+    gutenberg_agent_id: '33755'
+    url: http://www.gutenberg.org/2009/agents/33755
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Bates_(author)
+description: ''
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Submarines (Ships) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Whaling -- Fiction'
+- !lcsh 'Arctic regions -- Fiction'
+title: Seed of the Arctic Ice
+url: http://www.gutenberg.org/ebooks/32029
